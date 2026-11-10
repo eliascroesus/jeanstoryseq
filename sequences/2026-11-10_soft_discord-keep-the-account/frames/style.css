@@ -1,8 +1,8 @@
 html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#000}
 .bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
 .shade{position:absolute;inset:0}
-.blur{position:absolute;backdrop-filter:blur(22px);-webkit-backdrop-filter:blur(22px);background:#0003;border-radius:14px}
-.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:14px;padding:0 60px}
+.card{position:absolute;border-radius:18px;box-shadow:0 24px 70px #000c;display:block}
+.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:14px;padding:0 60px;z-index:5}
 .l{background:#fff;color:#111;font:500 44px/1.3 'Poppins',sans-serif;padding:12px 28px;border-radius:14px;text-align:center;max-width:960px}
 .stack.big .l{font-size:56px}
 .hl{color:#c8911a;font-weight:600}

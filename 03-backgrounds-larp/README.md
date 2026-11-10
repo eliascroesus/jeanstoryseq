@@ -12,3 +12,4 @@ Vertical (9:16) photos work best. Anything else gets cropped.
 
 ## Catalog
 <!-- Maintained by Claude: one line per file in this folder (not subfolders). -->
+| `discord-server-channels.webp` | Screenshot of Jean's JEAN FX Discord (uploaded 2026-11-10): channels rules, welcome, support-ticket, reviews, announcements, free-game, youtube, giveaway, gym, terminologies, general-chat, trade-discussion, question-tab, Call Center (voice), and a locked PRIVATE SERVER / jeanfx-analysis. The bottom-left shows the uploader's own username, so crop it out. | Shows the free Discord for real; channel names give honest incentives |

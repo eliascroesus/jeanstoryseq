@@ -26,7 +26,7 @@ _Lines Jean has actually used (from uploads):_ "treat this like a business" · "
 
 | Name | What it is | Keyword / link | Delivered how | Notes |
 |---|---|---|---|---|
-| Free Discord (custom funnel) | Free community; the entry point to JFX Elite | [DISCORD LINK] | Link sticker | Each sequence needs a concrete *reason* to join (live sessions, breakdown, rules sheet, trade reviews). Only promise what Jean will actually deliver. |
+| Free Discord (custom funnel) | Free JEAN FX server: Call Center live calls, trade-discussion, question-tab, free-game, youtube, giveaway, events; locked PRIVATE SERVER (jeanfx-analysis) for paid. See `03-backgrounds-larp/discord-server-channels.webp` | [DISCORD LINK] | Link sticker | Each sequence needs a concrete *reason* to join (live sessions, breakdown, rules sheet, trade reviews). Only promise what Jean will actually deliver. |
 
 ## Offers (hard-CTA destinations)
 
@@ -46,3 +46,4 @@ _No fixed brand kit given._ Jean's own photos (see `03-backgrounds-larp/backgrou
 ## Learnings
 <!-- Dated feedback and performance notes. Claude reads this before every new sequence.
 Example: 2026-11-12 · soft · "free-guide" sequence: 38 DMs. Poll on frame 1 worked; frame 4 too wordy. -->
+- 2026-11-10 · soft · free-Discord variants: user liked **B ("keeping it is the hard part")** a lot. The per-firm risk-calculator incentive was rated weak ("quite ass"). User wants a **silent results screenshot on frame 1** (shown, never mentioned) and **LARP on frame 1** (black Mustang at night, which the user calls "the Hellcat"). Incentives should be strong and tied to real Discord features.
