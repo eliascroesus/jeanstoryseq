@@ -1,22 +1,22 @@
-# Variant B (v2): "Keeping it is the hard part"
+# Variant B (v3): "Keeping it is the hard part"  ⭐ user favourite
 
 ## Brief
-- **Type:** Soft CTA · 4 frames · white box + Poppins, red/gold words
+- **Type:** Soft CTA · 4 frames · white box + Poppins, red/gold words, **bright daytime photos**
 - **Angle:** Marcus passes challenges but blows the funded account before payout. It's usually not discipline; it's 2 missing pieces.
-- **Incentive (new):** a weekly live call in the free Discord (Call Center) where Jean goes through members' funded accounts and tells them which of the 2 pieces they're missing. Recorded for people at work. ⚠️ **Jean must run it every week, and record it.**
-- **Silent proof:** frame 1 has a real member payout (fifa, FundedNext $19,694.08, 200K) placed in the corner, never mentioned. Name and QR blurred.
-- **Placeholders:** `[DISCORD LINK]`, the call's day/time (optional to add)
+- **Incentive (v3):** learn to trade for free. Everything Jean learned to get funded is inside the free Discord: lessons (#free-game), live calls (Call Center), and a Q&A he answers (#question-tab). ⚠️ **Make sure the free lessons actually cover both pieces (sweep entries + sizing to firm drawdown) before posting.**
+- **Proof:** frame 2 shows Jean's two biggest FTMO certificates, unblurred: Reward **$16,133.04** and Overall Rewards **$26,915.51** (9 Jul 2026, from `02-results` 18.08.37). They're never mentioned in the copy.
+- **Placeholders:** `[DISCORD LINK]`
 
 ## Frames
 | # | Copy | Visual | Add in app |
 |---|---|---|---|
-| 01 | Ever passed a challenge… / then ~blew~ the funded account / before your *first payout*? | **Black Mustang at night (LARP)** + $19,694.08 certificate card, bottom right | **Poll** in the open area under the text: "Yes 💀" / "More than once 😭" |
-| 02 | Getting funded isn't the hard part. / *Keeping* it is. / And it's usually not your discipline. / It's 2 things almost nobody teaches. | Jean on the pier | — |
+| 01 | Ever passed a challenge… / then ~blew~ the funded account / before your *first payout*? | yellow Ferrari + red Porsche at the valet, bright blue sky | **Poll** under the text, over the canopy: "Yes 💀" / "More than once 😭" |
+| 02 | Getting funded isn't the hard part. / *Keeping* it is. / And it's usually not your discipline. / It's 2 things almost nobody teaches. | Jean on the pier + both FTMO certificates, bottom half | — |
 | 03 | 1. Get in *after* the sweep, not before. / 2. Size to *your firm's* drawdown. / Not some random 1% rule. / Most traders only ever fix one… | Jean in the lobby | — |
-| 04 | Every week I go live in my *free Discord* / and go through members' accounts. / Bring yours. I'll show you / which one you're ~missing~. / Recorded if you're at work. Join below 👇 | frame 1's laptop shot, blurred | **Link sticker** "JOIN THE DISCORD" under the text |
+| 04 | I teach *both*. For free. / Everything I learned to get funded / is inside my *free Discord*. / Lessons, live calls, a Q&A I answer. / Learn to trade for $0. Join below 👇 | blue Urus + 2 Ferraris under palm trees, daylight | **Link sticker** "JOIN THE DISCORD" on the plain concrete in the bottom third |
 
-Frame 4 answers frame 3's open loop ("most only fix one" → "I'll show you which one you're missing").
+Frame 4 closes frame 3's loop ("most only fix one" → "I teach both").
 
 ## History
-- Round 1 incentive (a per-firm risk calculator) was dropped on feedback ("quite ass").
-- 3-POV review fixes from round 1 are kept: no filler hook, 4-box frame 3, "usually not your discipline", "No signals" stance.
+- v1 incentive: per-firm risk calculator ("quite ass"). v2: weekly live account breakdown + Mustang/payout card on frame 1 ("bring yours" was also "quite ass").
+- v3 (this): bright supercar photos, results moved to frame 2, made bigger and unblurred, "learn to trade for free" incentive.
