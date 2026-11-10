@@ -7,7 +7,7 @@ Hard-CTA references: direct sales sequences (offer, launch, application, deadlin
 ## Catalog
 <!-- Maintained by Claude: one line per file. Hook, structure, design moves worth stealing. -->
 
-All files are `Screenshot 2026-11-10 at <time>.png`. The 12 screenshots are **one year-end sequence (H1)** from the same trading creator as the soft refs, selling his paid program, "the Syndicate". `11.42.27` and `11.42.47` are the **same frame** captured twice. Story order puts `11.42.32` before them.
+All files are `Screenshot 2026-11-10 at <time>.png`. The 12 screenshots are **one year-end sequence (H1)** from the same trading creator as the soft refs, selling their paid program, "the Syndicate". `11.42.27` and `11.42.47` are the **same frame** captured twice. Story order puts `11.42.32` before them.
 
 ### H1: "My year → I launched the program → student case studies → year ends in 24h → DM 'NEWYEAR'" (11 unique frames)
 
