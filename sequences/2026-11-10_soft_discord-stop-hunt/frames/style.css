@@ -1,0 +1,7 @@
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#000}
+.bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.shade{position:absolute;inset:0}
+.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:14px;padding:0 70px}
+.l{background:#000;color:#fff;font:italic 400 43px/1.32 'Libre Baskerville',serif;padding:12px 26px 14px;border-radius:6px;text-align:center;max-width:900px}
+.hl{color:#f2c14e}
+.pain{color:#ff6b6b}

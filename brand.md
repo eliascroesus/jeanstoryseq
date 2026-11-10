@@ -4,7 +4,8 @@ This is the machine's memory. Fill in what you know; leave the rest blank. Claud
 
 ## Who Jean is
 <!-- What Jean does, for whom, the short origin story, credibility markers. -->
-- **Pronouns:** _(fill in so copy about Jean reads right)_
+- **Pronouns:** he/him (as used in the brand docs). Age 21.
+- **Read `00-brand-docs/` before writing copy.** The avatar is Marcus, the almost-funded trader; `beliefs.md` lists the beliefs to build.
 
 _From the uploads, 2026-11-10. Unconfirmed: correct anything wrong._
 - Prop-firm trader: forex/indices on MT5 plus futures. Gets funded by prop firms and takes payouts. Firms that appear: FTMO, Topstep, FundedNext, Alpha Capital, Lucid, Breakthrough, TradeX Mastery, Equity Edge, Alpha Trader.
@@ -25,17 +26,22 @@ _Lines Jean has actually used (from uploads):_ "treat this like a business" · "
 
 | Name | What it is | Keyword / link | Delivered how | Notes |
 |---|---|---|---|---|
-| | | | | |
+| Free Discord (custom funnel) | Free community; the entry point to JFX Elite | [DISCORD LINK] | Link sticker | Each sequence needs a concrete *reason* to join (live sessions, breakdown, rules sheet, trade reviews). Only promise what Jean will actually deliver. |
 
 ## Offers (hard-CTA destinations)
 
 | Name | What it is / price | Who it's for | How to buy or apply | Current urgency |
 |---|---|---|---|---|
-| | | | | |
+| JFX Elite | Mentorship: Jean's Advanced SMC (entry waits for the stop-hunt sweep) + risk rules built around prop-firm limits; weekly reviews of real trades; ~$3,997 per avatar sheet (confirm) | Marcus: passes challenges, can't keep funded accounts | (confirm) | none |
 
 ## Visual identity (optional)
 <!-- Only if Jean has fixed brand colours or fonts. Leave empty to let each sequence follow its references. -->
 _No fixed brand kit given._ Jean's own photos (see `03-backgrounds-larp/backgrounds/README.md`) lean on two moods: **warm night interiors** (amber, cognac, teal, black) and **bright daytime travel** (blue sky, cream, concrete). Cobalt blue, cream and black recur. Jean rarely looks straight at the camera.
+
+## Copy guardrails (from competitors-c.md)
+- Payout totals, certificates and cars are **exhausted and distrusted** by Marcus. Use them sparingly, never as the main proof.
+- What he trusts: live trading, losses shown, someone reviewing *his* trades, straight talk.
+- No earnings claims, no "guaranteed", no lifestyle implying trading wealth.
 
 ## Learnings
 <!-- Dated feedback and performance notes. Claude reads this before every new sequence.

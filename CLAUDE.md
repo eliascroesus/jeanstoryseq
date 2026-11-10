@@ -8,6 +8,7 @@ Everything here is either **input** (the asset folders and `brand.md`) or **outp
 
 | Path | What's in it | How to use it |
 |---|---|---|
+| `00-brand-docs/` | Avatar sheets (Marcus), buyer beliefs, competitor research | Read before writing any copy |
 | `brand.md` | Who Jean is, audience, voice, offers, lead magnets, learnings | Read it first, every time. It is the machine's memory. |
 | `01-inspiration/soft-cta/` | Reference soft-CTA story sequences (design + copy) | Study before every soft sequence |
 | `01-inspiration/hard-cta/` | Reference hard-CTA story sequences (design + copy) | Study before every hard sequence |
