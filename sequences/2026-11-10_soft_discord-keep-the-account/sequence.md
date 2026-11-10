@@ -1,35 +1,22 @@
-# Variant B: "Keeping it is the hard part" (pass-but-can't-keep empathy)
+# Variant B: "Keeping it is the hard part" (pass-but-can't-keep)
 
 ## Brief
-- **Date:** 2026-11-10 · **Type:** Soft CTA · **Frames:** 4
-- **Angle:** Marcus's #2 pain: he passes challenges but blows the funded account before payout. Reframe it: not a discipline problem, two missing pieces.
-- **Goal:** join the free Discord (link sticker).
-- **Incentive:** Jean's prop-firm risk rules per firm and account size (a sheet or calculator: pick firm + size → max risk per trade). ⚠️ **This needs to exist in the Discord before posting. Confirm.**
-- **Beliefs moved:** #1 (I'm not the problem, one fixable gap), #3 (keeping it = sweep entry + firm-specific risk rules).
-- **References used:** hard-cta H1 visual style (white box, red/gold words), soft tone.
-- **Placeholders left:** `[DISCORD LINK]`
-
-## Arc
-1. Hook: a question Marcus answers "yes" to (poll)
-2. Reframe: funded isn't hard, keeping it is; not your discipline
-3. The two things (named, not taught)
-4. CTA: get my exact risk rules for your firm, free
+- **Type:** Soft CTA · 4 frames · white box + sans, red/gold words
+- **Angle:** Marcus passes challenges but blows the funded account before payout. It's usually not discipline; it's 2 missing pieces.
+- **Incentive:** the risk rules Jean uses for each prop firm. Pick firm + account size → the max Jean would risk per trade. ⚠️ **Build it before posting, date every rule ("last checked"), and add "check your firm's current terms".**
+- **Beliefs moved:** #1, #3 (both halves), #6 (indirectly).
+- **Placeholders:** `[DISCORD LINK]`
 
 ## Frames
-### 01: Hook
-- **Copy:** Quick question 👇 / Have you ever passed a challenge… / then ~blown~ the funded account / before your *first payout*?
-- **Visual:** laptop with a chart by the balcony window, daytime.
-- **Add in app:** **poll** "Yes 💀" / "Not yet" in the lower half.
+| # | Copy | Background | Add in app |
+|---|---|---|---|
+| 01 | Ever passed a challenge… / then ~blew~ the funded account / before your *first payout*? (56px hook) | laptop + chart by the window | **Poll:** "Yes 💀" / "More than once 😭" |
+| 02 | Getting funded isn't the hard part. / *Keeping* it is. / And it's usually not your discipline. / It's 2 things almost nobody teaches. | Jean on the pier, daytime | — |
+| 03 | 1. Get in *after* the sweep, not before. / 2. Size to *your firm's* drawdown. / Not some random 1% rule. / Most traders only ever fix one… | Jean in the lobby, casual | — |
+| 04 | I put the risk rules I use for each firm / in my *free Discord*. / Pick your firm + account size / → see the max I'd risk per trade. / No signals. Just the rules. Join below 👇 | frame 1's laptop, blurred | **Link sticker** in the lower half |
 
-### 02: Reframe
-- **Copy:** Getting funded was never the hard part. / *Keeping* it is. / And it's not that you're undisciplined. / It's 2 things almost nobody teaches.
-- **Visual:** high-rise living room at dusk.
-
-### 03: The two things
-- **Copy:** 1. An entry that waits for the trap / to get *swept* first. / 2. Risk rules built around / *your firm's* drawdown limits. / Not some random 1% rule. / That's the gap between passing / and actually getting paid.
-- **Visual:** purple trading desk, slightly darkened.
-
-### 04: Soft CTA
-- **Copy:** I put my exact prop-firm risk rules / in my *free Discord*. / Pick your firm + account size / and you'll know your max risk per trade. / Free. Join below 👇
-- **Visual:** warm lobby lounge.
-- **Add in app:** **link sticker** → `[DISCORD LINK]` under the text.
+## Review notes (3 POVs, round 1 → fixed)
+- Marcus: "Quick question" was filler → cut. The hotel lobby felt like a flex → replaced. He wants to know it's not a signals room → "No signals." added.
+- Retention: frame 3 had 7 boxes and 38 words → now 4 boxes, ending on a loop. The poll's "Not yet" was ambiguous → both options are now yes. Orphan wrap fixed.
+- Funnel/compliance: "that's the gap between passing and getting paid" and "you'll know your max risk" were guarantee-shaped → cut, and the offer now reads "see the max **I'd** risk". "Not that you're undisciplined" → "usually not your discipline".
+- 💡 Reviewer idea worth considering: later, add an affiliate-free prop-firm scorecard to the kit.

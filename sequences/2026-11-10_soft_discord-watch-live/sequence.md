@@ -1,35 +1,22 @@
-# Variant C: "Watch them trade live" (anti-guru trust)
+# Variant C: "Make them do one thing" (anti-guru trust)
 
 ## Brief
-- **Date:** 2026-11-10 · **Type:** Soft CTA · **Frames:** 4
-- **Angle:** Marcus has been burned by mentors who flex payouts but don't trade live. Agree with him, including about Jean's own certificates, then offer the proof he actually trusts.
-- **Goal:** join the free Discord (link sticker).
-- **Incentive:** Jean trades live in the free Discord (wins, losses, reasoning), plus a weekly review of a few members' blown trades. ⚠️ **Confirm Jean will do both, every week.**
-- **Beliefs moved:** #4 (Jean makes money trading, not selling courses; trades live, losses included) and #5 (someone reviewing my real trades).
-- **References used:** IG-native text boxes from both reference sets, typewriter variant for a different feel.
-- **Placeholders left:** `[DISCORD LINK]`
-
-## Arc
-1. Hook: advice that sounds like it's against Jean's interest
-2. Disarm: certificates don't prove a strategy, "including mine"
-3. The proof he trusts: live, with losses
-4. CTA: live trading + your blown trades reviewed, free
+- **Type:** Soft CTA · 4 frames · black box + bold sans, red/gold words
+- **Angle:** Marcus has been burned by mentors who flex but don't trade. Agree with him, even about Jean's own certificate, then offer proof he trusts: every trade posted, losses included.
+- **Incentive:** (1) every trade Jean takes is posted in the Discord with the reasoning, live when possible and recorded otherwise; (2) every Sunday, one member's blown account broken down, names hidden. ⚠️ **Only post if Jean will do both every week. A missed week hurts more than no promise.** Keep it to *one* account a week so per-member trade reviews stay JFX Elite's job.
+- **Beliefs moved:** #4 strongly; #5 seeded (not given away).
+- **Placeholders:** `[DISCORD LINK]`, which day/time the breakdown goes up
 
 ## Frames
-### 01: Hook
-- **Copy:** Before you pay ANY trading mentor… / watch them trade *live*. / Not a recap. Not a screenshot. / Live.
-- **Visual:** night skyline.
-- **Add in app:** **poll** "Ever paid a mentor who didn't trade live?" Yes / No.
+| # | Copy | Background | Add in app |
+|---|---|---|---|
+| 01 | Before you pay / ANY trading mentor… / make them do / *one thing*. (58px hook) | living room at dusk, dimmed | **Poll:** "Paid one who couldn't trade?" Yes / No |
+| 02 | Trade *live* in front of you. / A payout certificate only proves / a firm paid someone. / ~Including mine.~ | Jean's FTMO plaque, **amount blurred** | — |
+| 03 | So every trade I take / goes in my free Discord. / Wins, ~losses~, and why I took it. / Live when I can. / *Recorded* for when you can't. | close-up of the chart | — |
+| 04 | And every Sunday I break down / one member's ~blown~ account. / Names hidden. Drop yours in. / Free to join. Link below 👇 | plain black | **Link sticker** under the text |
 
-### 02: Disarm
-- **Copy:** A payout certificate proves / a firm paid someone. / It doesn't prove the strategy works. / ~Including mine.~
-- **Visual:** Jean's own FTMO plaque in front of the chart. The image is the joke.
-
-### 03: The proof he trusts
-- **Copy:** So here's what I'm doing. / I trade *live* in my free Discord. / Wins, ~losses~, / and why I took every single trade.
-- **Visual:** purple trading desk.
-
-### 04: Soft CTA
-- **Copy:** And every week I'll pull a few / of *your* blown trades / and show you what went wrong. / Free to join. Link below 👇
-- **Visual:** living room at dusk.
-- **Add in app:** **link sticker** → `[DISCORD LINK]`.
+## Review notes (3 POVs, round 1 → fixed)
+- Retention: frame 1 closed its own loop ("watch them trade live") → it's now "make them do one thing" and frame 2 answers it. The typewriter font was slow to read and off-reference → switched to bold sans.
+- Marcus: "live at the open while I'm at work" → "Recorded for when you can't". "Blown trades" → one blown account, with how to take part.
+- Funnel/compliance: the plaque amount is now blurred. "Every single trade" → "every trade I take… why I took it". The weekly review gave away Elite's core → it's now one anonymised account a week.
+- 💡 Before posting: make the first Discord channel new members see match this story, not the `funded-reviews` certificate wall, and pin an "education only, not financial advice" welcome message.
