@@ -1,5 +1,7 @@
-html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#000}
-.bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
-.card{position:absolute;border-radius:16px;box-shadow:0 22px 60px #000c}
-.cap{position:absolute;z-index:5}
-.cap div{color:#fff;font:800 62px/1.2 'Poppins',sans-serif;letter-spacing:-.5px;text-shadow:-4px -4px 0 #000,-4px -3px 0 #000,-4px 0px 0 #000,-4px 3px 0 #000,-4px 4px 0 #000,-3px -4px 0 #000,-3px -3px 0 #000,-3px 0px 0 #000,-3px 3px 0 #000,-3px 4px 0 #000,0px -4px 0 #000,0px -3px 0 #000,0px 3px 0 #000,0px 4px 0 #000,3px -4px 0 #000,3px -3px 0 #000,3px 0px 0 #000,3px 3px 0 #000,3px 4px 0 #000,4px -4px 0 #000,4px -3px 0 #000,4px 0px 0 #000,4px 3px 0 #000,4px 4px 0 #000,0 6px 18px rgba(0,0,0,.55);margin-bottom:10px}
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden}
+body{background:#232427;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:56px;padding:270px 0 300px;box-sizing:border-box;position:relative}
+.bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;z-index:0}
+.t{position:relative;z-index:2;max-width:880px;text-align:center;color:#fff;font:italic 800 64px/1.16 'Poppins',sans-serif;letter-spacing:-.5px;text-shadow:0 2px 10px rgba(0,0,0,.35)}
+.card{position:relative;z-index:2;border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.55);object-fit:cover}
+.boxes{position:absolute;left:0;right:0;z-index:2;display:flex;flex-direction:column;align-items:center;gap:10px;padding:0 70px}
+.boxes span{background:#fff;color:#111;font:700 52px/1.2 'Poppins',sans-serif;padding:12px 30px;border-radius:16px;text-align:center}
