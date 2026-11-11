@@ -17,6 +17,7 @@ Everything here is either **input** (the asset folders and `brand.md`) or **outp
 | `02-results/` | Real client results: DMs, testimonials, revenue/stat screenshots, before/afters | The **only** source of proof |
 | `03-backgrounds-larp/backgrounds/` | Textures, gradients, scenes to put text on | Frame backgrounds |
 | `03-backgrounds-larp/larp/` | Lifestyle / aspirational shots of Jean | Story and day-in-the-life frames, credibility |
+| `03-backgrounds-larp/unprofitable-era/` | Photos/videos from before Jean was profitable | "Where I started" and before/after frames. Videos: grab stills with ffmpeg |
 | `sequences/` | Finished sequences, one folder each | Output |
 | `tools/render.js` | Renders HTML frames to 1080×1920 PNGs + a preview sheet | See step 4 |
 

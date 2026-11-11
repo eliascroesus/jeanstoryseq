@@ -14,6 +14,7 @@ Each link opens GitHub's upload page for that folder. Drag in as many images as 
 | **01 · Inspiration: general** | Not sure which, or design you like in general | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration) |
 | **02 · Results** | Client wins, DMs, testimonials, revenue/stat screenshots | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/02-results) |
 | **03 · Backgrounds** | Textures, gradients, scenes for text to sit on | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/03-backgrounds-larp/backgrounds) |
+| **03 · Unprofitable era** | Photos and videos from before Jean was profitable (blown accounts, old setup, early days) | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/03-backgrounds-larp/unprofitable-era) |
 | **03 · LARP** | Lifestyle shots of Jean | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/03-backgrounds-larp/larp) |
 
 Filenames don't matter much; Claude looks at every image. Descriptive names (`sarah-first-10k-month.png`) still help it pick the right proof faster.
