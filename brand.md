@@ -5,6 +5,7 @@ This is the machine's memory. Fill in what you know; leave the rest blank. Claud
 ## Who Jean is
 <!-- What Jean does, for whom, the short origin story, credibility markers. -->
 - **Pronouns:** he/him (as used in the brand docs). Age 21.
+- **Story (his words, onboarding call 14 Oct 2026, `00-brand-docs/jean-story-onboarding-call.md`):** Africa on $1–2 a day, dreamed of pro soccer → US at 18 (2022) → cousin traded; scammed by a fake Instagram "account manager"; tried dropshipping → learned from YouTube, not profitable → found mentor Yerimi, bought £99 course, finished it in a day, one of his top 10 students, presented at a bootcamp → quit high school soccer (left winger) for trading → DoorDash after school, ~$500/week into prop challenges, traded London session at night → lost $4k live trading news; mom said quit and go to college, he said no → caregiving job on night shifts to trade at work → first payout ~$3.2k (cried), then steady $2–3k payouts (2023–24) → quit job end of 2024 → first 10k month Feb 2025 → dream car at 20 → scaled with futures prop firms + copy trading 5×150k accounts → high-rise. Teaches because "I've seen the same Ivan that wanted to learn… but didn't have the resources". Method name: **Advanced SMC**. People impersonate him in DMs.
 - **Read `00-brand-docs/` before writing copy.** The avatar is Marcus, the almost-funded trader; `beliefs.md` lists the beliefs to build.
 
 _From the uploads, 2026-11-10. Unconfirmed: correct anything wrong._
