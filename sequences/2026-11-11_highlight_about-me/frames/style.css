@@ -1,7 +1,8 @@
-html,body{margin:0;width:1080px;height:1920px;overflow:hidden}
-body{background:#232427;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:56px;padding:270px 0 300px;box-sizing:border-box;position:relative}
-.bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;z-index:0}
-.t{position:relative;z-index:2;max-width:880px;text-align:center;color:#fff;font:italic 800 64px/1.16 'Poppins',sans-serif;letter-spacing:-.5px;text-shadow:0 2px 10px rgba(0,0,0,.35)}
-.card{position:relative;z-index:2;border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.55);object-fit:cover}
-.boxes{position:absolute;left:0;right:0;z-index:2;display:flex;flex-direction:column;align-items:center;gap:10px;padding:0 70px}
-.boxes span{background:#fff;color:#111;font:700 52px/1.2 'Poppins',sans-serif;padding:12px 30px;border-radius:16px;text-align:center}
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#000;position:relative}
+.bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.shade{position:absolute;inset:0}
+.col{position:absolute;inset:270px 0 300px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:50px;z-index:2}
+.t{max-width:900px;text-align:center;color:#fff;font:italic 800 64px/1.16 'Poppins',sans-serif;letter-spacing:-.5px;text-shadow:0 3px 14px rgba(0,0,0,.6)}
+.card{border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+.boxes{position:absolute;left:0;right:0;z-index:2;display:flex;flex-direction:column;align-items:center;gap:10px;padding:0 40px}
+.boxes span{background:#fff;color:#111;font:700 48px/1.2 'Poppins',sans-serif;padding:12px 30px;border-radius:16px;text-align:center}
