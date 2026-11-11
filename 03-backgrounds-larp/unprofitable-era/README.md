@@ -8,5 +8,7 @@ Photos and videos from before Jean was profitable: blown accounts, losing days, 
 - Put the date or year in the filename if you know it: `2024-first-desk.jpg`, `2025-blown-account.mp4`.
 - Phone formats (HEIC, MOV) are fine. Claude converts them.
 
+**Big files (over 25 MB, e.g. long videos):** use the release instead: **[⬆ Upload big files as a release](https://github.com/eliascroesus/jeanstoryseq/releases/new?tag=unprofitable-era&target=claude/lucid-curie-18bajj&title=Unprofitable%20era%20Jean)**. Drag the files into the "Attach binaries" box at the bottom (up to 2 GB per file), then press **Publish release**. Claude pulls them from the release tagged `unprofitable-era`.
+
 ## Catalog
 <!-- Maintained by Claude: one line per file. What it shows, rough date, the "before" it proves, where text fits. -->
