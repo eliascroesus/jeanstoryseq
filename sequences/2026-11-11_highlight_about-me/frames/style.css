@@ -1,10 +1,6 @@
 html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#000}
 .bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
 .shade{position:absolute;inset:0}
-.card{position:absolute;overflow:hidden;border-radius:14px;box-shadow:0 22px 60px #000c}
-.card img{width:100%;height:100%;object-fit:cover;display:block}
-.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:12px;padding:0 60px;z-index:5}
-.l{background:#000;color:#fff;font:italic 400 46px/1.3 'Libre Baskerville',serif;padding:10px 24px 12px;text-align:center;max-width:960px}
-.big .l{font-size:60px}
-.hl{color:#f2c14e}.pain{color:#ff6b6b}
-.yr{position:absolute;z-index:6;left:70px;color:#fff;font:700 40px 'Poppins',sans-serif;letter-spacing:3px;opacity:.9;text-shadow:0 2px 10px #000}
+.card{position:absolute;border-radius:16px;box-shadow:0 22px 60px #000c}
+.cap{position:absolute;left:0;right:0;padding:0 70px;text-align:center;z-index:5}
+.cap div{color:#fff;font:800 66px/1.18 'Poppins',sans-serif;letter-spacing:-.5px;text-shadow:-4px -4px 0 #000,-4px -3px 0 #000,-4px 0px 0 #000,-4px 3px 0 #000,-4px 4px 0 #000,-3px -4px 0 #000,-3px -3px 0 #000,-3px 0px 0 #000,-3px 3px 0 #000,-3px 4px 0 #000,0px -4px 0 #000,0px -3px 0 #000,0px 3px 0 #000,0px 4px 0 #000,3px -4px 0 #000,3px -3px 0 #000,3px 0px 0 #000,3px 3px 0 #000,3px 4px 0 #000,4px -4px 0 #000,4px -3px 0 #000,4px 0px 0 #000,4px 3px 0 #000,4px 4px 0 #000,0 6px 18px rgba(0,0,0,.55);margin-bottom:18px}

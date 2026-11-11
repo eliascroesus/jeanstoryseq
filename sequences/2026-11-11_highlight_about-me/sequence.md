@@ -1,31 +1,32 @@
-# Highlight: About Me (15 stories)
+# Highlight: About Me (v2, 14 stories)
 
 ## Brief
-- **Date:** 2026-11-11 · **Type:** Instagram Highlight ("About" / "My story"), 15 stories
-- **Source:** Jean's own words from `00-brand-docs/jean-story-onboarding-call.md` (onboarding call, 14 Oct 2026). Every beat is something Jean said; nothing invented.
-- **Look:** black box + white italic serif (soft-reference style, reads like a personal diary). Real old photos and video stills from `03-backgrounds-larp/unprofitable-era/` for the "before", Jean's current photos for the "after".
-- **Ends on:** the free JEAN FX Discord (link sticker on story 15).
+- **Type:** Instagram Highlight ("About" / "My story"), 14 stories, chronological from the start.
+- **Source:** Jean's own words from `00-brand-docs/jean-story-onboarding-call.md`. Nothing invented.
+- **Look (v2):** full-bleed real photos and video stills, with **TikTok-style captions**: Poppins ExtraBold, white with a black outline, centred in the lower-middle. No boxes, no black backgrounds, no serif.
+- **Arc:** unprofitable era (stories 1–11) → profitable Jean (12–14). It ends on Jean on the pier, now, with the free Discord.
 
 ## Stories
-| # | Copy | Visual |
+| # | Caption | Visual |
 |---|---|---|
-| 01 | Hey, I'm Jean 👋 / 21. Trader. / From Africa to the US. / Tap for the real story 👉 | Jean on the pier (now) |
-| 02 | Before all this, I was in Africa. / Working for $1–2 a day. / My only dream was soccer. | old school-uniform selfie (cropped to Jean), "BEFORE 2022" |
-| 03 | Came to America at 18. 2022. / Played high school soccer. / Left winger ⚽ | high school soccer team photo |
-| 04 | My cousin back home traded. / He told me: lock in and learn this. / So I tried. | young Jean, thumbs up at an early desk |
-| 05 | First I got scammed by a fake "account manager" on Instagram. / Then I tried dropshipping. / Lost that too. | still: dropshipping store on his laptop |
-| 06 | So I learned off YouTube. / Watched almost every video. / Still not profitable. | still: charting while watching YouTube |
-| 07 | Senior year I had to choose: / soccer and college… or trading. / I quit the team. / Everyone thought I was crazy. | still: Jean in a hoodie at the field fence |
-| 08 | After school I DoorDashed till midnight. / $500 a week. All of it went into prop challenges. / Then I traded the London session. | Popeyes at night + 2 doorstep drop-off photos |
-| 09 | My lowest point: / I lost $4,000 on my live account. / My mom said quit. Go to college. / I said no. | still: Jean selfie, "jump on the charts" era |
-| 10 | Then I found my mentor. / Bought his course. / Finished it the same day. / Watched every bootcamp after that. | still: old HP laptop with charts |
-| 11 | After high school I took a caregiving job. / I picked night shifts… / so I could trade at work. | still: Jean in a hoodie at work |
-| 12 | Then I started passing. / My first payout? I cried. / After that I just kept it consistent. | Toptier "Certificate of Accomplishment", Nov 2023 |
-| 13 | End of 2024 I put in my two weeks. / Feb 2025: my first 10k month. / Bought my dream car at 20. | the black Mustang at night |
-| 14 | 4 years in America. / From $1 a day / to a high-rise. / Same kid. Just locked in. | high-rise living room |
-| 15 | I teach because I was that kid. / No money. No mentor. Got scammed. / So I built the JEAN FX Discord. / It's free. Join below 👇 | old mirror selfie |
+| 01 | Back in Africa I was working for $1–2 a day. / My only dream was soccer. | school-uniform selfie (cropped to Jean) |
+| 02 | Moved to America at 18. / Played high school soccer. / Left winger. | soccer team photo |
+| 03 | My cousin back home traded. / He told me: lock in and learn this. | young Jean, thumbs up at his early desk |
+| 04 | First I got scammed on Instagram. / Then I tried dropshipping. / Lost that too. | still: dropshipping store |
+| 05 | So I learned off YouTube. / Watched almost every video. / Still wasn't profitable. | still: charting while watching YouTube |
+| 06 | Senior year: soccer or trading. / I quit the team. / Everyone thought I was crazy. | still: hoodie on the bleachers |
+| 07 | After school I DoorDashed till midnight. / $500 a week. / All of it went into prop challenges. | Popeyes at night, rainy windshield |
+| 08 | Then I lost $4,000. / My mom said quit and go to college. / I said no. | still: Jean selfie |
+| 09 | Then I found my mentor. / Finished his course in one day. | still: old HP laptop with charts |
+| 10 | Took a caregiving job with night shifts… / so I could trade at work. | still: hoodie at work |
+| 11 | Then I started passing. / My first payout? I cried. | Toptier certificate (Nov 2023) over a chart still |
+| 12 | Quit my job end of 2024. / First 10k month: Feb 2025. / Dream car at 20. | black Mustang at night |
+| 13 | 4 years in America. / $1 a day → a high-rise. | high-rise living room |
+| 14 | I teach because I was that kid. / The JEAN FX Discord is free. / Join below 👇 | **Jean on the pier (profitable Jean)** |
 
 ## Posting notes
-- Story 15: add the **link sticker** to the free Discord under the text.
-- ⚠️ Confirm with Jean: country (the call only says "Africa", so I kept it that way; add "Rwanda" if he's happy to say it), that the Mustang is the dream car from story 13, and that his mom is OK being mentioned (story 9).
-- Story 2's photo has two friends in it; it's cropped to Jean.
+- Story 14: **link sticker** to the free Discord, under the caption.
+- ⚠️ Confirm with Jean: "Africa" vs naming Rwanda, the Mustang as the dream car, and that mentioning his mom is OK.
+
+## History
+- v1 (black boxes, italic serif, "Hey, I'm Jean 👋" intro, old selfie as the last frame) was rejected.
