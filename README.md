@@ -10,6 +10,7 @@ Each link opens GitHub's upload page for that folder. Drag in as many images as 
 |---|---|---|
 | **01 · Inspiration: soft CTA** | Story sequences you like that end in a soft ask (freebie, "DM me 'X'", poll) | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration/soft-cta) |
 | **01 · Inspiration: hard CTA** | Story sequences you like that sell directly (offer, launch, apply, deadline) | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration/hard-cta) |
+| **01 · Inspiration: highlights** | Highlight covers and the stories inside highlights you like | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration/highlights) |
 | **01 · Inspiration: general** | Not sure which, or design you like in general | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration) |
 | **02 · Results** | Client wins, DMs, testimonials, revenue/stat screenshots | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/02-results) |
 | **03 · Backgrounds** | Textures, gradients, scenes for text to sit on | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/03-backgrounds-larp/backgrounds) |
@@ -40,7 +41,7 @@ Put Jean's details in **[`brand.md`](brand.md)**: who Jean is, audience, voice, 
 ## What's where
 
 ```
-01-inspiration/        reference sequences (soft-cta/, hard-cta/)
+01-inspiration/        reference sequences (soft-cta/, hard-cta/, highlights/)
 02-results/            real client proof
 03-backgrounds-larp/   backgrounds/ and larp/ images
 brand.md               Jean's brand memory: voice, offers, lead magnets, learnings

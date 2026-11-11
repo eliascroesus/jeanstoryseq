@@ -12,6 +12,7 @@ Everything here is either **input** (the asset folders and `brand.md`) or **outp
 | `brand.md` | Who Jean is, audience, voice, offers, lead magnets, learnings | Read it first, every time. It is the machine's memory. |
 | `01-inspiration/soft-cta/` | Reference soft-CTA story sequences (design + copy) | Study before every soft sequence |
 | `01-inspiration/hard-cta/` | Reference hard-CTA story sequences (design + copy) | Study before every hard sequence |
+| `01-inspiration/highlights/` | Reference Instagram Highlights: covers and the stories inside | Study before making highlight covers or highlight sequences |
 | `01-inspiration/` (top level) | Unsorted or general design references | Useful for either type |
 | `02-results/` | Real client results: DMs, testimonials, revenue/stat screenshots, before/afters | The **only** source of proof |
 | `03-backgrounds-larp/backgrounds/` | Textures, gradients, scenes to put text on | Frame backgrounds |

@@ -6,6 +6,7 @@ Story sequences you like, both the design and the copy. Claude studies these bef
 |---|---|---|
 | `soft-cta/` | Value-first sequences: lead magnet, "DM me 'X'", polls, question boxes | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration/soft-cta) |
 | `hard-cta/` | Direct sales: offer, launch, "apply now", deadline, last spots | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration/hard-cta) |
+| `highlights/` | Highlight covers and the stories inside highlights | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration/highlights) |
 | here (top level) | Not sure, or general design you like | [⬆ Upload](https://github.com/eliascroesus/jeanstoryseq/upload/claude/lucid-curie-18bajj/01-inspiration) |
 
 **Tips**
