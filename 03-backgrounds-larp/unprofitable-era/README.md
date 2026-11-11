@@ -20,8 +20,8 @@ Uploaded 2026-11-11 (originals also in the `unprofitable-era` release; the relea
 | `0148B1FA-….jpeg` | Young Jean in an orange fast-food work shirt (Schlotzsky's) with headphones | "worked jobs to fund trading" |
 | `70520557737__….jpeg`, `70569587305__….jpeg`, `70578050769__….jpeg`, `IMG_1642.jpeg`, `IMG_1643.jpeg`, `IMG_1722.jpeg` | Doorstep drop-off photos (DoorDash deliveries), day and night | DoorDash era; works as a collage |
 | `IMG_1748.jpeg` | Popeyes at night through a rainy windshield | late-night DoorDash shifts |
-| `73CD2F9C-….jpeg` | High school soccer team photo (landscape) | the soccer chapter |
-| `IMG_0049.jpeg` | School-uniform selfie with two friends (crop to Jean) | early years / before the US |
+| `73CD2F9C-….jpeg` | High school soccer team photo. **Jean is not in it.** Don't use it as a photo of Jean | — |
+| `IMG_0049.jpeg` | School-uniform selfie. **Not Jean.** Don't use | — |
 | `9738875F-….jpeg` | Young Jean, thumbs up, at an early desk with a laptop chart | first steps in trading |
 | `E5298EE3-….jpeg` | Young Jean, mirror selfie | "I was that kid" |
 | `b8e946dd-….jpeg` | Jean with a family member, laptop open | family (confirm who before naming) |
