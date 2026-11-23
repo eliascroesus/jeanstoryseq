@@ -58,3 +58,4 @@ Example: 2026-11-12 · soft · "free-guide" sequence: 38 DMs. Poll on frame 1 wo
 - 2026-11-23 · 5 Mistakes: don't fill a sequence with random car pics. Use **successful Jean in the shot** (elevator, lobby, pier, restaurant) for most LARP frames, with at most 1 car-only frame.
 - 2026-11-23 · 5 Mistakes: **one box per full sentence** (let it wrap inside the box). Don't chop sentences into many tiny boxes. Use bold sparingly on 1 key phrase per story. Grammar: "I watched" not "I'd watched".
 - 2026-11-23 · White text boxes must **hug each line** (Instagram highlight style: inline span with box-decoration-break clone), never a fixed rectangle with empty space beside short lines.
+- 2026-11-23 · CTA titles: white box with bold black text (gold keyword), **no quotation marks**, no dark box.

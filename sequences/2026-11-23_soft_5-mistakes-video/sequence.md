@@ -13,4 +13,4 @@
 | 01 | DoorDash era | Popeyes at night through a rainy windshield | — |
 | 02 | Low point ($4k lost, mom said quit) | Jean today in the black-glass elevator, hand over face | — |
 | 03 | The turn (5 things wrong) | Jean today in the lobby (blue shirt); punchline split to the bottom | optional poll "how many are you doing?" "1–2" / "3+ 😭" under the text |
-| 04 | CTA (video) | blue Urus + 2 Ferraris under palm trees; title box on the pavement under the cars | **link sticker** to the video below the title box |
+| 04 | CTA (video). Copy changed by user: "so I just recorded the video I wish I had when I started, so you can get your dream car, high rise, or whatever it is, way quicker than I did". The "over the past 2 years…" paragraph was removed. Title in a white box, no quotes. | blue Urus + 2 Ferraris under palm trees; title above the cars | **link sticker** to the video on the pavement below the cars |

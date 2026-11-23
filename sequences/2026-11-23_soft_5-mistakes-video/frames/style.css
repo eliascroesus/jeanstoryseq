@@ -4,6 +4,7 @@ html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#000;po
 .stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:10px;padding:0 40px;z-index:2}
 .row{max-width:920px;text-align:center;line-height:1.62}
 .l{display:inline;background:#fff;color:#111;font-family:'Poppins',sans-serif;font-weight:500;line-height:1.62;padding:9px 22px;border-radius:14px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.t2{font-weight:700}
 .gap{height:18px}
 b{font-weight:700}
 .title{background:#111;color:#fff;font:700 50px/1.2 'Poppins',sans-serif;padding:18px 30px;border-radius:16px;text-align:center;max-width:960px;margin-top:6px}
